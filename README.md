@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It's a simple to do's application to refreshen my memory in the future React projects. A code snippet, let's say.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It's a simple to do's application to refreshen my memory in the future React projects. A code snippet, let's say. It uses Jsonserver as a backend.
 
 ## Available Scripts
 
